@@ -1,0 +1,25 @@
+.chatProfileRight {
+    display: flex;
+    align-items: flex-end;
+    gap: 5px;
+    flex-direction: row-reverse;
+    margin-bottom: 5px;
+  }
+  .chatProfileLeft {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-bottom: 5px;
+  }
+
+  .userName {
+    color: rgb(73, 73, 253);
+    font-weight: 600;
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+
+  .time {
+    color: gray; /* Set color to gray */
+    font-size: small; /* Set font size to small */
+  }
